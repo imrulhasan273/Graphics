@@ -1,0 +1,3 @@
+﻿  executor.c
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1407,5): warning MSB8012: TargetPath(D:\GRAPHICS LAB DRAFT\Smoke\Release\FFTW.lib) does not match the Library's OutputFile property value (D:\GRAPHICS LAB DRAFT\Smoke\library\FFTW.lib). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Lib.OutputFile).
+LINK : fatal error LNK1104: cannot open file '../library/FFTW.lib'
